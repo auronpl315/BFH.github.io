@@ -1,4 +1,0 @@
-This is a Brave Rewards publisher verification file.
-
-Domain: BFH.github.io
-Token: 0d7e178695041a70fe2d9561d41e385410e859af1841f03d52888ee6f377c726
